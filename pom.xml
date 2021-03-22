@@ -33,9 +33,9 @@
 	
 	<!-- Hibernate Dependency -->
 	<dependency>
-    	<groupId>org.hibernate</groupId>
-    	<artifactId>hibernate-core</artifactId>
-    	<version>5.4.10.Final</version>
+    		<groupId>org.hibernate</groupId>
+    		<artifactId>hibernate-core</artifactId>
+    		<version>5.4.10.Final</version>
 	</dependency>
 	
     
